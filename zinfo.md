@@ -32,7 +32,7 @@ Home
 
 --------------------------------------------------
 # Example of Query when single 'RootQueryType'
-### Branch Single-RootQuery
+### Branch: 01-Single-RootQuery
 
 {
   user(id: "77"){
